@@ -11,9 +11,8 @@ All analyses are stored in a **SQLite** database for easy retrieval and manageme
 - Persistent storage of user inputs and analysis results with SQLite  
 - Simple setup and deployment instructions  
 
-## Installation and Setup
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/3mo0o0ry2001/sentiment-analysis-flask.git
-   cd sentiment-analysis-flask
+---
+
+If you want, I can also help you create a simple `requirements.txt` file or a `LICENSE` file next. Just say the word!
+
